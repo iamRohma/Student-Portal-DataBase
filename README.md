@@ -56,7 +56,7 @@ student-portal-database/
 └── docs/
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Install Microsoft SQL Server
 

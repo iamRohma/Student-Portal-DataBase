@@ -52,8 +52,6 @@ student-portal-database/
 │
 ├── sql/
 │   └── StudentPortal.sql
-│
-└── docs/
 ```
 
 ##  How to Run
